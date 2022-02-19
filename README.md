@@ -1,2 +1,2 @@
-# ansible-demo
-Демо проект для курса Ansible + Docker + Vagrant, 2021.
+# Ansible-demo, 2021.
+Демо проект для курса CI/CD: Ansible, Docker, Vagrant.
