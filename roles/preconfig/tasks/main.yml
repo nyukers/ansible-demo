@@ -1,8 +1,4 @@
 ---
-- name: Preconfig
-  hosts: demo
-  tasks:
-  
 - name: Утановка Docker
   block:
     - name: Добавляем universe
